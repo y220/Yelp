@@ -1,9 +1,9 @@
 # STAT628 HW3 
 ## Goal
 In this project, our project utilize data from the Yelp that contains 76,254 reviews from 2,039 different pizza-related shops, and focuses on pizza related businesses in four state, Illinois, Ohio, Pennsylvania, and Wisconsin. Specifically, we are interested in the following questions:
-## What are the distribution patterns of these restaurants? How about their feedback from customers?
-## Are there any interesting information can be extracted from customers' reviews? How can those factors influence the impression of pizza store?
-## How to predict the overall store star? Are there any specific variables that make a great difference?
+ --What are the distribution patterns of these restaurants? How about their feedback from customers?
+ --Are there any interesting information can be extracted from customers' reviews? How can those factors influence the impression of pizza store?
+ --How to predict the overall store star? Are there any specific variables that make a great difference?
 Our “rule-of-thumb” will be based on a real data set of 252 men with measurements of their percentage of body fat and various body circumference measurements.
 
 ## [Data](data/) 
