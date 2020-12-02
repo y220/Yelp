@@ -4,7 +4,7 @@ In this project, our project utilize data from the Yelp that contains 76,254 rev
 
   --What are the distribution patterns of these restaurants? How about their feedback from customers?
 
-  --Are there any interesting information can be extracted from customers' reviews?
+  --Are there any interesting information can be extracted from customers' reviews and businesses’ attributes?
 
   --Are there any specific variables that make a great difference based on statistical model results?
 
