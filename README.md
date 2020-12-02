@@ -20,9 +20,9 @@ This folder contains all the code for our analysis (e.g. cleaning the data, data
 ## [Image](image/)
 This folder contains any figures/images/tables produced in our analysis.
 
-## [Summary](summary.pdf) 
+## [Summary](Summary.pdf) 
 The four-page summary file contains the summary of this project.
 
-## [Shiny_app](shiny_app/)
+## [Shiny_app](https://yukun.shinyapps.io/stat628hw3/)
 This fold contains the shiny app and if you want to run it, open main.R and run in R or browser.\
 Also you can visit <https://yukun.shinyapps.io/stat628hw3/> to use it.
