@@ -9,7 +9,7 @@ In this project, our project utilize data from the Yelp that contains 76,254 rev
   --How to predict the overall store star? Are there any specific variables that make a great difference?
 
 ## Rule-of-thumb
-The service of delivery, friendly attitude towards customer and kids-friendly atmosphere are the most essential factors in increasing overall store score on the Yelp.
+Friendly service attitude, fast delivery and fresh ingredients are the most essential factors in increasing overall store score on the Yelp.
 
 ## [Data](data/) 
 This folder contains the raw and (if relevant) cleaned data.
