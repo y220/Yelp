@@ -4,9 +4,9 @@ In this project, our project utilize data from the Yelp that contains 76,254 rev
 
   --What are the distribution patterns of these restaurants? How about their feedback from customers?
 
-  --Are there any interesting information can be extracted from customers' reviews? How can those factors influence the impression of pizza store?
+  --Are there any interesting information can be extracted from customers' reviews?
 
-  --How to predict the overall store star? Are there any specific variables that make a great difference?
+  --Are there any specific variables that make a great difference based on statistical model results?
 
 ## Rule-of-thumb
 Friendly service attitude, fast delivery and fresh ingredients are the most essential factors in increasing overall store score on the Yelp.
