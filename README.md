@@ -24,5 +24,5 @@ This folder contains any figures/images/tables produced in our analysis.
 The four-page summary file contains the summary of this project.
 
 ## [Shiny_app](Rshiny/)
-This fold contains the shiny app and if you want to run it, open main.R and run in R or browser.\
+This folder contains the shiny app and if you want to run it, open main.R and run in R or browser.\
 Also you can visit <https://yukun.shinyapps.io/stat628hw3/> to use it.
