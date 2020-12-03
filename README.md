@@ -1,6 +1,6 @@
 # STAT628 HW3 
 ## Goal
-In this project, our project utilize data from the Yelp that contains 76,254 reviews from 2,039 different pizza-related shops, and focuses on pizza related businesses in four state, Illinois, Ohio, Pennsylvania, and Wisconsin. Specifically, we are interested in the following questions:
+In this project, our project utilizes data from the Yelp that contains 76,254 reviews from 2,039 different pizza-related shops, and focuses on pizza related businesses in four state, Illinois, Ohio, Pennsylvania, and Wisconsin. Specifically, we are interested in the following questions:
 
   --What are the distribution patterns of these restaurants? How about their feedback from customers?
 
