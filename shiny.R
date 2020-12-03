@@ -76,7 +76,7 @@ ui <- fluidPage(
                fluidRow(
                  column(3, 
                         selectInput("sel", label = h4("Reviews and Comments"), 
-                                    choices = list("Size" = 2, "Service" = 3, "Material Type" = 4, "Taste" = 5, " "=1), 
+                                    choices = list("Size" = 2, "Service" = 3, "Material Type" = 4, "Taste" = 5), 
                                   selected = 1)),
     
                  column(7,
@@ -401,7 +401,7 @@ server <- function(input, output) {
     they shows a lot in 4 or 5 stars and make great importance. Also hoagie is useful to improve your stars, We can think of pizza as a kind of snack, so it is also useful to provide other snacks."}
       else if(input$sel==3){"Our suggestion is that restaurants should make up their tables and try to be friendly to the customer. That will improve stars a lot. Takeaways are easy to lower the score, so the merchant must ensure the quality of the food during transportation"}
       else if(input$sel==4){"Our suggestion is that restaurants should make more dessert and improve their quality. Also using more Mozzarella is a good choice. We found that young people and children are very fond of desserts, pie is a very popular snack, so we recommend restaurants to provide pie."}
-      else if(input$sel==5){"Our suggestion is that the most important thing is using hte fresh food. If cooked crispy, it will be better. Spicy is also a taste that young people love. There is a saying in China that no spicy is not happy."}
+      else if(input$sel==5){"Our suggestion is that the most important thing is using hte fresh food. If cooked crispy, it will be better. Spicy is also a taste that young people love."}
     })
     output$New <- renderText({
       if(input$sel==5){
